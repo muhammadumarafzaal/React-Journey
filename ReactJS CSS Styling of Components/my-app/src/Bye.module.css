@@ -1,0 +1,5 @@
+/* third way to style react component using css modules */
+.test{
+    color : blue;
+    backGround-color: pink;
+}
