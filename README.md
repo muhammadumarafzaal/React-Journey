@@ -11,3 +11,4 @@ Welcome to my React Journey repository! This project serves as a comprehensive c
 - **my-app**: A Vite-based React application environment.
 
 Developed by [Muhammad Umar Afzaal](https://github.com/muhammadumarafzaal).
+Email:umarafzaal182@gmail.com
