@@ -9,6 +9,11 @@ Welcome to my React Journey repository! This project serves as a comprehensive c
 - **ReactJS CSS Styling of Components**: Various component styling methods.
 - **react 1**: Basic raw React implementation.
 - **my-app**: A Vite-based React application environment.
+- **Movie Explorer**: Browse and search for movies using the Fetch API.
+- **Expense Tracker**: Track personal finances, including incomes and expenses, using React hooks.
+- **TODO-List in React**: A task management application allowing users to create, complete, and delete tasks.
+- **Shopping Cart Project**: An interactive shopping cart demonstrating core e-commerce functionalities with state management.
+- **E-commerce App**: A comprehensive e-commerce application featuring product browsing, detailed views, and an interactive shopping cart.
 
 Developed by [Muhammad Umar Afzaal](https://github.com/muhammadumarafzaal).
 Email:umarafzaal182@gmail.com
