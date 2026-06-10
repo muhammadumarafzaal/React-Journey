@@ -1,0 +1,72 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  transition: all 0.3s ease;
+  min-height: 60px;
+}
+
+.navbar.light {
+  background-color: #f8f9fa;
+  color: #333;
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar.dark {
+  background-color: #212529;
+  color: #fff;
+  border-bottom: 1px solid #444;
+}
+
+.nav-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-controls {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.lang-select {
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.theme-btn, .login-btn, .logout-btn {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: opacity 0.2s;
+}
+
+.theme-btn:hover, .login-btn:hover, .logout-btn:hover {
+  opacity: 0.8;
+}
+
+.theme-btn {
+  background-color: #4a90e2;
+  color: white;
+}
+
+.login-btn {
+  background-color: #2ecc71;
+  color: white;
+}
+
+.logout-btn {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
