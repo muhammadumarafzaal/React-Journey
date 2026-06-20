@@ -20,6 +20,12 @@ Welcome to my React Journey repository! This project serves as a comprehensive c
 - **ReactJS useEffect Hook**: Handling asynchronous operations, side effects, API fetching, and timers with lifecycle cleanup.
 - **ReactJS useCallback Hook**: Optimizing app rendering and caching function references to prevent unnecessary child component updates.
 - **ReactJS useLayoutEffect Hook**: Performing synchronous measurements and mutations on DOM layout before browser repaints.
+- **Form Handling**: Multiple techniques for handling forms, controlled inputs, multi-input binding, uncontrolled components using refs, and advanced validations.
+- **ErrorBoundary**: Implements standard React Error Boundaries to catch render errors, handle async state exceptions, isolate UI crashes, and provide a premium diagnostics reset/retry dashboard.
+- **HOC (Higher-Order Components)**: Demonstrates reusing component logic by wrapping presentational components with custom higher-order components (`withStyle` and `withData`).
+- **LazyLoadingReactJs**: Optimizes performance using code splitting, `React.lazy` and `Suspense` fallback routes, drastically reducing initial bundle sizes.
+- **AI Productivity Dashboard**: A high-end dark-themed dashboard featuring drag-and-drop task ordering (`@dnd-kit`), local storage persistence, habit trackers, and interactive productivity charts (`recharts`).
+- **React CRUD**: A database-driven User Management dashboard built with PrimeReact datatables, confirmation dialogues, custom form validation modals, and Axios API integrations.
 
 Developed by [Muhammad Umar Afzaal](https://github.com/muhammadumarafzaal).
 Email:umarafzaal182@gmail.com
