@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John is",
+      "email": "umarafzaal@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@gmail.com"
+    },
+    {
+      "name": "hamza",
+      "email": "umarafzaal182@gmail.com",
+      "id": 4
+    }
+  ]
+}
