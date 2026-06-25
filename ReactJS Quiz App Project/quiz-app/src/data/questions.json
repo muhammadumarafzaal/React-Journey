@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "React is mainly used for?",
+        "options": [
+            "Styling",
+            "Mobile Apps",
+            "Building UI",
+            "None"
+        ],
+        "answer": "Building UI"
+    },
+    {
+        "id": 2,
+        "question": "Which hook is used for state?",
+        "options": [
+            "useEffect",
+            "useState",
+            "useMemo",
+            "useContext"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 3,
+        "question": "What does JSX stand for?",
+        "options": [
+            "JavaScript XML",
+            "JSON Syntax",
+            "Java Syntax",
+            "JQuery Script"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 4,
+        "question": "How to create a component in React?",
+        "options": [
+            "Class",
+            "Function",
+            "Both A & B",
+            "None"
+        ],
+        "answer": "Both A & B"
+    },
+    {
+        "id": 5,
+        "question": "What is the default port for React?",
+        "options": [
+            "3000",
+            "5000",
+            "8000",
+            "9000"
+        ],
+        "answer": "3000"
+    },
+    {
+        "id": 6,
+        "question": "What is the purpose of useState?",
+        "options": [
+            "To fetch data",
+            "To manage state",
+            "To create components",
+            "To style components"
+        ],
+        "answer": "To manage state"
+    },
+    {
+        "id": 7,
+        "question": "What is the purpose of useEffect?",
+        "options": [
+            "To fetch data",
+            "To manage state",
+            "To create components",
+            "To style components"
+        ],
+        "answer": "To fetch data"
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of useContext?",
+        "options": [
+            "To fetch data",
+            "To manage state",
+            "To create components",
+            "To style components"
+        ],
+        "answer": "To manage state"
+    },
+    {
+        "id": 9,
+        "question": "What is the purpose of useMemo?",
+        "options": [
+            "To fetch data",
+            "To manage state",
+            "To create components",
+            "To style components"
+        ],
+        "answer": "To manage state"
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of useCallback?",
+        "options": [
+            "To fetch data",
+            "To manage state",
+            "To create components",
+            "To style components"
+        ],
+        "answer": "To manage state"
+    }
+]
